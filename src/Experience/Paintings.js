@@ -94,7 +94,7 @@ export default class Paintings {
         textureDescription: this.resources.items["joanArtGalleryDescription"],
         texturePainting: this.resources.items["joanArtGallery"],
         liveDemo: "https://nouval-art-gallery.vercel.app/",
-        sourceCode: "https://github.com/nouvalrizqy05-ui/nouval-art-gallery",
+        sourceCode: "https://github.com/nouvalarrrgh/nouval-art-gallery",
         seen: false,
       },
       {
