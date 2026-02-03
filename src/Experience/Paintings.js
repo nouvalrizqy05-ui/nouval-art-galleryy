@@ -68,7 +68,7 @@ export default class Paintings {
         textureDescription: this.resources.items["portfolioDescription"],
         texturePainting: this.resources.items["portfolio"],
         liveDemo: "https://muhammadnouvalarrizqy.vercel.app/",
-        sourceCode: "https://github.com/nouvalrizqy05-ui/portofolio",
+        sourceCode: "https://github.com/nouvalarrrgh/3d-portfolio",
         seen: true,
       },
       {
@@ -77,7 +77,7 @@ export default class Paintings {
           this.resources.items["joanArcadeMachineDescription"],
         texturePainting: this.resources.items["joanArcadeMachine"],
         liveDemo: "https://nouval-arcade-machine.vercel.app/",
-        sourceCode: "https://github.com/nouvalrizqy05-ui/nouval-arcade-machine",
+        sourceCode: "https://github.com/nouvalarrrgh/nouval-arcade-machine",
         seen: false,
       },
       {
@@ -85,7 +85,7 @@ export default class Paintings {
         textureDescription: this.resources.items["joanOSDescription"],
         texturePainting: this.resources.items["joanOS"],
         liveDemo: "https://nouval-os.vercel.app/",
-        sourceCode: "https://github.com/nouvalrizqy05-ui/nouval-os",
+        sourceCode: "https://github.com/nouvalarrrgh/nouval-os",
         seen: false,
       },
 
@@ -102,7 +102,7 @@ export default class Paintings {
         textureDescription: this.resources.items["stardusterDescription"],
         texturePainting: this.resources.items["starduster"],
         liveDemo: "https://dignifiedgen.vercel.app/",
-        sourceCode: "https://github.com/nouvalrizqy05-ui/web-kelas",
+        sourceCode: "https://github.com/nouvalarrrgh/dignified-website",
         seen: false,
       },
       {
